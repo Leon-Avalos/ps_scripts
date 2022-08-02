@@ -5,7 +5,8 @@
 #              Then export to CSV file for further processing
 # Author: Leon-Avalos
 
-databases=(crearunidos crearunidos_base iron-hand iron-hand.pos.charges misistema.local)
+# Databases list
+databases=(dbname1...)
 
 
 get_last_access(){
