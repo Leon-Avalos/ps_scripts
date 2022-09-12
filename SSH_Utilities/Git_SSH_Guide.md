@@ -10,7 +10,7 @@
 		```git config —local user.email “email@email.com”```
 
 2. Crear llave SSH 
-	```ssh-keygen -t 25519 -C “comment”```
+	```ssh-keygen -t ed25519 -C “comment”```
 
 3. Copiar al gitthub
 	```nano /path-to-key```
